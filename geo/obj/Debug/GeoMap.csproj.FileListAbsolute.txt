@@ -1,0 +1,5 @@
+F:\Om\Code\geo\geo\bin\geo.dll
+F:\Om\Code\geo\geo\bin\geo.pdb
+F:\Om\Code\geo\geo\obj\Debug\GeoMap.csprojResolveAssemblyReference.cache
+F:\Om\Code\geo\geo\obj\Debug\geo.dll
+F:\Om\Code\geo\geo\obj\Debug\geo.pdb
